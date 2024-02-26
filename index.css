@@ -1,0 +1,121 @@
+.banner {
+    width: 100%;
+    height: 250px;
+    margin-bottom: 20px;
+}
+
+.banner>img {
+    width: 100%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+
+.leftSide {
+    height: 800px;
+
+}
+
+.rightSide {
+    height: 800px;
+
+
+}
+
+.articleImg {
+    width: 100%;
+    height: 100%;
+}
+
+
+.header-right {
+
+    position: absolute;
+    background-color: lightsalmon;
+    direction: rtl;
+
+}
+
+.subTitle {
+    position: absolute;
+    direction: rtl;
+}
+
+
+.item {
+    width: 100%;
+    height: 150px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+
+.winnerDiv {
+    width: 100%;
+    height: 100px;
+    background-color: aqua;
+    margin-bottom: 10px;
+}
+
+.imgWinnerDiv {
+    width: 100%;
+    height: 100%;
+}
+
+.newsRoom {
+    background-color: #1732b4;
+    color: white;
+    display: flex;
+    justify-content: center;
+}
+
+.chatDiv {
+    width: 100%;
+    height: 200px;
+    background-color: #fff;
+}
+
+.chat {
+    display: flex;
+    justify-content: center;
+    font-weight: 1000;
+    font-size: x-large;
+}
+
+
+
+.newsItem {
+    width: 100%;
+    height: 300px;
+    margin-top: 10px;
+}
+
+.newsItemPic {
+    width: 100%;
+    height: 100%;
+
+}
+
+.video {
+    background-color: #222222;
+    width: 100%;
+    color: white;
+    height: 50px;
+    margin-top: 10px;
+    direction: rtl;
+    display: flex;
+    justify-content: center;
+    font-weight: 1000;
+    font-size: x-large;
+}
+
+.seder>img {
+    width: 100%;
+    margin-top: 10px;
+}
+
+
+.tinyArticle>img {
+    margin-top: 10px;
+
+}
